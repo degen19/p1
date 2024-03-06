@@ -594,7 +594,7 @@ if (hato) {
   console.log('HATO : NO LIGHTBEARERS')
 }
 if (rato) { 
-  console.log('RATO : LIGHTBEARER ON P1, P2, AND P3')
+  console.log('RATO : LIGHTBEARER ON P2, P3, AND P4')
 }
 if (godbook) {
   console.log('GODBOOK : LIGHTBEARER ON P1 & P2')
