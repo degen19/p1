@@ -191,7 +191,7 @@ export class Player {
   }
 
   get scythe() {
-    return [1, melee(this.scytheMax, this.scytheAccuracy)];
+    return [1, scythe(this.scytheMax, this.scytheAccuracy)];
   }
 
   get dawnbringer() {
